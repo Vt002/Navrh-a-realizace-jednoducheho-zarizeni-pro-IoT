@@ -1,6 +1,10 @@
-# Regulace
+# Návrh a realizace jednoduchého zařízení pro IoT
+Vysvětlete, co to je internet věcí (IoT) 
+Základní požadavky kladené na IoT zařízení
+IoT zařízení z hlediska bezpečnosti a zabezpečení (safety a security)
+Příklad realizace HW a SW jednoduchého zařízení pro IoT
 
-Vysvětlete, co je to regulace, nakreslete regulační schéma a vysvětlete jednotlivé části
-Na příkladu vysvětlete princip dvoustavového regulátoru s a bez hystereze
-Na příkladu vysvětlete význam senzorů v regulátorech
-Ve zvoleném programovacím jazyce napište hlavní část algoritmu dvoustavového regulátoru s a bez hystereze
+
+
+
+
