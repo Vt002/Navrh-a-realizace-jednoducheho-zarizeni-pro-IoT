@@ -6,6 +6,8 @@
 
 # Návrh a realizace jednoduchého zařízení pro IoT
 
+$${\color{#4682B4}A7 }$$
+
 ## Cíl
 
 - Studenti budou rozlišovat mezi klasickou automatizací a IoT jak v domácnosti, tak průmyslu
@@ -26,7 +28,7 @@ Návrh a realizace jednoduchého zařízení pro IoT
 
 ### 1. Co je to IoT
 
-1. Podívejte se níže na definice IoT a automatizace a popište v čem se od sebe liší. 
+1. Podívejte se níže na definice IoT a automatizace a popište, v čem se od sebe liší. 
 
 > :key: **IoT**
 >
@@ -61,7 +63,7 @@ Návrh a realizace jednoduchého zařízení pro IoT
 
 1. K MCU připojte senzor/čidlo teploty a posílejte tato data do počítače po sériové lince.
 
-2. Porovnejte měření teploty s jiným teploměrem a zkuste určit charakter chyba měření. Následně navrhněte, jak by se tyto chyby dali eliminovat.
+2. Porovnejte měření teploty s jiným teploměrem a zkuste určit charakter chyba měření. Následně navrhněte, jak by se tyto chyby daly eliminovat.
 
     <details>
         <summary> :bulb: Tip: </summary>
@@ -75,5 +77,5 @@ Návrh a realizace jednoduchého zařízení pro IoT
 3. Opět připojte MCU ke cloudové službě (např. [Tmep](https://tmep.cz/), [Blynk IoT](https://blynk.io/), [Arduino Cloud](https://www.arduino.cc/),...) a naprogramujte jednoduchý IoT teploměr (případně vlhkoměr). 
 
 Pozn.: Pokud bydlíte ve starším domě a řešíte problém tvorby plísní na zdech, zkuste tento senzor vlhkosti použít k dlouhodobému měření. Pokud bude po většinu času relativní vlhkost výrazně vyšší jak 50 %, je třeba primárně zajistit lepší odvětrání vlhkého vzduchu, jelikož relativní vlhkost nad 50 % podporuje tvorbu těchto plísní. Samozřejmě toto řešení nemusí stačit, ale může napomoci řešení problému.
-Pokud se rozhodnete používat neplacenou verzi cloudové služby, zjistěte si, zda vaše data nejsou veřejná. Měření teploty a vlhkosti v interiéru může být jednou z bezpečnostních hrozeb.
+Pokud se rozhodnete používat neplacenou verzi cloudové služby, zjistěte si, zda vaše data nejsou veřejná. Měření teploty a vlhkosti v interiéru může být jednou z **bezpečnostních hrozeb**.
 V případě venkovní meteostanice tento problém tolik nehrozí.
